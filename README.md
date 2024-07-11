@@ -17,12 +17,23 @@ Developer / Algorithm Learner
 </div>
 
 
-<div align="Left">
+<div align="Center">
     <h2>😅 Current Project</h2>
 </div>
 <br/>
 <div align="center">
     <p1>Making A HompePage</p1>
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" />
+    
+</div>
+
+
+<div align="Center">
+    <h2>😼 Reading Paper</h2>
+</div>
+<br/>
+<div align="center">
+    <p1 href="https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf">"Attention Is All You Need" </p1>
+
     
 </div>
