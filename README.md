@@ -4,7 +4,7 @@ Developer / Algorithm Learner
 
 
 <div align="center">
-    <h2>📖 Current Study</h2>
+    <h2 style="margin-bottom: 0;>📖 Current Study</h2>
 </div>
 <br/>
 <div align="center">
@@ -18,7 +18,7 @@ Developer / Algorithm Learner
 
 
 <div align="Center">
-    <h2>😅 Current Project</h2>
+    <h2 style="margin-bottom: 0;>😅 Current Project</h2>
 </div>
 <br/>
 <div align="center">
@@ -28,13 +28,13 @@ Developer / Algorithm Learner
 </div>
 
 
-<div align="Center">
-    <h2>😼 Reading Paper</h2>
+<div align="center">
+    <h2 style="margin-bottom: 0;">😼 Reading Paper</h2>
 </div>
 <br/>
 <div align="center">
-    <h2>
+    <h2 style="margin-top: 0;">
         <a href="https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf">Attention Is All You Need : Ashish Vaswani, Noam Shazeer</a>
     </h2>
-
 </div>
+
