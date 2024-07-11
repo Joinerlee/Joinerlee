@@ -1,9 +1,8 @@
 #🙋‍♂️ Profile
-##Name : Lee Jae Uk
+## Name : Lee Jae Uk
 Developer / Algorithm Learner
 
 
-#📖 Current Study
 <div align="center">
     <h2>📖 Current Study</h2>
 </div>
