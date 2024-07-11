@@ -34,6 +34,6 @@ Developer / Algorithm Learner
 <br/>
 <div align="center">
     <a href="\(https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)">
-    <h2>Attention Is All You Need!</h2>
+    <h2>Attention Is All You Need : Ashish Vaswani, Noam Shazeer</h2>
     </a>    
 </div>
