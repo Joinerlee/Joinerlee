@@ -33,7 +33,7 @@ Developer / Algorithm Learner
 </div>
 <br/>
 <div align="center">
-    <a href="[/html/intro](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)">
+    <a href="\(https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)">
     <h2>Attention Is All You Need!</h2>
     </a>    
 </div>
