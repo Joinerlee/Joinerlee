@@ -5,7 +5,7 @@ Developer / Algorithm Learner
 
 #📖 Current Study
 <div align="center">
-    <h2>Tech Stack</h2>
+    <h2>📖 Current Study</h2>
 </div>
 <br/>
 <div align="center">
