@@ -18,7 +18,7 @@ Developer / Algorithm Learner
 
 
 <div align="Center">
-    <h2 style="margin-bottom: 0;>😅 Current Project</h2>
+    <h2>😅 Current Project</h2>
 </div>
 <br/>
 <div align="center">
