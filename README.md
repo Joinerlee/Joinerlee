@@ -1,4 +1,4 @@
-# 🙋‍♂️ Profile  
+# Profile  
 **Lee Jae Uk**  
 Developer / Algorithm Learner  
 ---
